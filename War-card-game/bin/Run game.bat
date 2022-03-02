@@ -1,0 +1,2 @@
+java GameManager
+pause
